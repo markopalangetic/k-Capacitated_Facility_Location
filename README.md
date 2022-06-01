@@ -1,2 +1,2 @@
-# k-Capacitated_Facility_Location
+# k-Capacitated Facility Location
 Heuristics for k-Capacitated Facility Location Problem
