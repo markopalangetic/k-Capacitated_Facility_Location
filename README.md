@@ -6,3 +6,5 @@ https://repozitorij.upr.si/IzpisGradiva.php?id=8826
 More about Facility Location Problem:
 
 https://en.wikipedia.org/wiki/Facility_location_problem
+
+Main function: facilityLocationHeuristics().
